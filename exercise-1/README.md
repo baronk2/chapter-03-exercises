@@ -20,4 +20,4 @@ A. Water
 
 B. Raspberry Kroger-brand non-NutriGrain bar
 
-C. Lasagna
+C. Lasagna 
